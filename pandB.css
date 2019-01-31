@@ -1,0 +1,27 @@
+body{
+text-align: center;
+background-color: #baefed;
+color: #0b24a0;
+}
+
+p{
+padding: 20px 200px;
+margin: 20px;
+}
+
+img {
+float: right;
+border-radius: 20%;
+}
+
+a {
+color: #aa99cc;
+}
+
+
+ol {
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+text-align: left;
+margin-left: 35%;
+list-style-type: upper-roman;
+}
